@@ -72,3 +72,10 @@ This tutorial outlines the post-install configuration of the open-source help de
   <img src=https://i.imgur.com/4d2Wbtp.png height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p><p> <h2>Managing and configuring SLA's in osTicket</h2>
 </p>
+<p>
+  <img src=https://i.imgur.com/7nti74F.png height="80%" width="80%" alt="Disk Sanitization Steps"/>
+  <img src=https://i.imgur.com/dd5cAiC.png  height="80%" width="80%" alt="Disk Sanitization Steps"/>
+  <img src=https://i.imgur.com/0HzWs3S.png  height="80%" width="80%" alt="Disk Sanitization Steps"/> 
+  <img src=https://i.imgur.com/nlx46l7.png  height="80%" width="80%" alt="Disk Sanitization Steps"/> 
+  <h2>Managing and configuring help topics</h2>
+</p>
