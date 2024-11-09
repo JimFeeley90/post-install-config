@@ -34,7 +34,7 @@ This tutorial outlines the post-install configuration of the open-source help de
   <img src=https://i.imgur.com/vP8x0Ka.png  height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Define roles and permissions within osTicket.
+<h2>Define roles and permissions within osTicket.</h2>
 </p>
 <br />
 
@@ -44,7 +44,7 @@ Define roles and permissions within osTicket.
   <img src=https://i.imgur.com/9FPCQXa.png height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Setting up and managing departments in osTicket.
+<h2>Setting up and managing departments in osTicket.</h2>
 </p>
 <br />
 
@@ -55,14 +55,14 @@ Setting up and managing departments in osTicket.
   <img src=https://i.imgur.com/8MxVNVi.png height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>  
 <p>
-Setting up and managing teams in osTicket.
+<h2>Setting up and managing teams in osTicket.</h2>
 </p>
 <p>
 <img src=https://i.imgur.com/aQpfNeo.png height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <img src=https://i.imgur.com/SdtZOcX.png height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-  Setting up and managing agents in osTicket.
+  <h2>Setting up and managing agents in osTicket.</h2>
 </p>
 <p>
   <img src=https://i.imgur.com/ICX82fO.png height="80%" width="80%" alt="Disk Sanitization Steps"/>
@@ -70,5 +70,5 @@ Setting up and managing teams in osTicket.
   <img src=https://i.imgur.com/TJOOPzh.png height="80%" width="80%" alt="Disk Sanitization Steps"/>
   <img src=https://i.imgur.com/Oi2R7ow.png height="80%" width="80%" alt="Disk Sanitization Steps"/>
   <img src=https://i.imgur.com/4d2Wbtp.png height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p><p> <h2>Managing and configuring SLA's in osTicket</h2>
 </p>
-<br />
