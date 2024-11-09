@@ -58,7 +58,17 @@ Setting up and managing departments in osTicket.
 Setting up and managing teams in osTicket.
 </p>
 <p>
-
-  
+<img src=https://i.imgur.com/aQpfNeo.png height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src=https://i.imgur.com/SdtZOcX.png height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+  Setting up and managing agents in osTicket.
+</p>
+<p>
+  <img src=https://i.imgur.com/ICX82fO.png height="80%" width="80%" alt="Disk Sanitization Steps"/>
+  <img src=https://i.imgur.com/KfQMm2u.png height="80%" width="80%" alt="Disk Sanitization Steps"/>
+  <img src=https://i.imgur.com/TJOOPzh.png height="80%" width="80%" alt="Disk Sanitization Steps"/>
+  <img src=https://i.imgur.com/Oi2R7ow.png height="80%" width="80%" alt="Disk Sanitization Steps"/>
+  <img src=https://i.imgur.com/4d2Wbtp.png height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <br />
