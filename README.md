@@ -31,7 +31,7 @@ This tutorial outlines the post-install configuration of the open-source help de
 
 <p>
 <img src=https://i.imgur.com/1IJ2C1N.png height="80%" width="80%" alt="Disk Sanitization Steps"/>
-  <img src=https://i.imgur.com/vP8x0Ka.png  height="80%" width="80%" alt="Disk Sanitization Steps"/>
+  <img src=https://i.imgur.com/f9ilVcu.png height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
 <h2>Define roles and permissions within osTicket.</h2>
