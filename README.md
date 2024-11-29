@@ -50,8 +50,8 @@ This tutorial outlines the post-install configuration of the open-source help de
 
 <p>
 <img src=https://i.imgur.com/Lg9NrDQ.png height="80%" width="80%" alt="Disk Sanitization Steps"/>
-  <img src=https://i.imgur.com/17pBqAM.png height="80%" width="80%" alt="Disk Sanitization Steps"/>
-  <img src=https://i.imgur.com/qDLfFDp.png height="80%" width="80%" alt="Disk Sanitization Steps"/>
+  <img src=https://i.imgur.com/S7vOyg8.png height="80%" width="80%" alt="Disk Sanitization Steps"/>
+  <img src=https://i.imgur.com/f6ufMDX.png height="80%" width="80%" alt="Disk Sanitization Steps"/>
   <img src=https://i.imgur.com/8MxVNVi.png height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>  
 <p>
