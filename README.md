@@ -41,7 +41,7 @@ This tutorial outlines the post-install configuration of the open-source help de
 <p>
 <img src=https://i.imgur.com/RPLFDNw.png height="80%" width="80%" alt="Disk Sanitization Steps"/>
   <img src=https://i.imgur.com/nAjiJn8.png height="80%" width="80%" alt="Disk Sanitization Steps"/>
-  <img src=https://i.imgur.com/9FPCQXa.png height="80%" width="80%" alt="Disk Sanitization Steps"/>
+  <img src=https://i.imgur.com/2uJXyYF.png height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
 <h2>Setting up and managing departments in osTicket.</h2>
