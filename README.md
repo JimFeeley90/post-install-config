@@ -59,7 +59,7 @@ This tutorial outlines the post-install configuration of the open-source help de
 <h2>Setting up and managing teams in osTicket.</h2>
 </p>
 <p>
-<img src=https://i.imgur.com/WvyAHZl.png height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src=https://i.imgur.com/5XpNAFA.png height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <img src=https://i.imgur.com/MJ6PWyg.png height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
