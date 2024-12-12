@@ -66,7 +66,7 @@ This tutorial outlines the post-install configuration of the open-source help de
   <h2>Setting up and managing agents in osTicket.</h2>
 </p>
 <p>
-  <img src=https://i.imgur.com/JrvXBYe.png height="80%" width="80%" alt="Disk Sanitization Steps"/>
+  <img src=https://i.imgur.com/FC4Ap1c.png height="80%" width="80%" alt="Disk Sanitization Steps"/>
   <img src=https://i.imgur.com/jn2beDy.png height="80%" width="80%" alt="Disk Sanitization Steps"/>
   <img src=https://i.imgur.com/RYF4dQi.png height="80%" width="80%" alt="Disk Sanitization Steps"/>
   <img src=https://i.imgur.com/etszx4A.png height="80%" width="80%" alt="Disk Sanitization Steps"/>
