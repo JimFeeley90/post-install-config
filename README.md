@@ -56,7 +56,7 @@ This tutorial outlines the post-install configuration of the open-source help de
   <img src=https://i.imgur.com/iVHPsBF.png height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>  
 <p>
-<h2>Setting up and managing teams in osTicket.</h2>
+<h2>Setting up and managing teams in osTicket: To set up and manage teams in osTicket, log in to the admin panel and go to "Admin Panel" > "Manage" > "Teams." Click on the "Add New Team" button to create a new team, and give it a name and description. After creating a team, you can assign specific agents to it, ensuring that the right personnel are grouped together for specific tasks or support areas. Teams can be assigned to departments, allowing for better organization and ticket management. You can also edit teams later to add or remove agents, adjust their settings, or change their responsibilities, streamlining workflow and improving collaboration within osTicket.</h2>
 </p>
 <p>
 <img src=https://i.imgur.com/5XpNAFA.png height="80%" width="80%" alt="Disk Sanitization Steps"/>
