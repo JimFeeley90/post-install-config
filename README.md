@@ -63,7 +63,7 @@ This tutorial outlines the post-install configuration of the open-source help de
 <img src=https://i.imgur.com/JEQ8VEa.png height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-  <h2>Setting up and managing agents in osTicket.</h2>
+  <h2>Setting up and managing agents in osTicket: To set up and manage agents in osTicket, log in to the admin panel and navigate to "Admin Panel" > "Manage" > "Agents." Click on the "Add New Agent" button to create a new agent profile, filling in their name, email address, and role. You can assign agents to specific departments or teams, and set their permissions based on the responsibilities they will handle. Once added, you can edit an agent's profile to adjust their settings, such as their password, roles, and the departments they are associated with. Managing agents efficiently in osTicket ensures the right personnel are assigned to the appropriate tasks and support areas.</h2>
 </p>
 <p>
   <img src=https://i.imgur.com/FC4Ap1c.png height="80%" width="80%" alt="Disk Sanitization Steps"/>
