@@ -71,12 +71,12 @@ This tutorial outlines the post-install configuration of the open-source help de
   <img src=https://i.imgur.com/XPB78kd.png height="80%" width="80%" alt="Disk Sanitization Steps"/>
   <img src=https://i.imgur.com/dj7lRFI.png height="80%" width="80%" alt="Disk Sanitization Steps"/>
   <img src=https://i.imgur.com/AAuWtn2.png height="80%" width="80%" alt="Disk Sanitization Steps"/>
-</p><p> <h2>Managing and configuring SLA's in osTicket</h2>
+</p><p> <h2>Managing and configuring SLA's in osTicket: To manage and configure SLAs (Service Level Agreements) in osTicket, log in to the admin panel and go to "Admin Panel" > "Manage" > "SLA Plans." Click on the "Add New SLA" button to create a new SLA plan. Here, you can define key parameters such as response and resolution times based on ticket priorities (e.g., low, medium, high). You can also set up escalations for tickets that are nearing their deadlines. After creating an SLA plan, you can assign it to specific departments or ticket types. Configuring SLAs helps ensure timely responses and resolutions, improving customer satisfaction and ensuring that service standards are met consistently.</h2>
 </p>
 <p>
   <img src=https://i.imgur.com/N2GSBX8.png height="80%" width="80%" alt="Disk Sanitization Steps"/>
   <img src=https://i.imgur.com/WhEkczM.png  height="80%" width="80%" alt="Disk Sanitization Steps"/>
   <img src=https://i.imgur.com/cWcprEf.png  height="80%" width="80%" alt="Disk Sanitization Steps"/> 
   <img src=https://i.imgur.com/AyrMHwu.png  height="80%" width="80%" alt="Disk Sanitization Steps"/> 
-  <h2>Managing and configuring help topics</h2>
+  <h2>Managing and configuring help topics: To manage and configure help topics in osTicket, log in to the admin panel and navigate to "Admin Panel" > "Manage" > "Help Topics." Click on the "Add New Help Topic" button to create a new topic, where you can provide a title and description that guides users in selecting the appropriate issue category when submitting a ticket. You can customize help topics to match the common issues or requests your support team handles, improving ticket organization. After creating or editing help topics, they will appear as options for users when they create a new ticket, helping streamline the ticket submission process.</h2>
 </p>
